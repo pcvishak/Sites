@@ -1,0 +1,39 @@
+ctrlp
+--------------
+finding files
+press ctrl + p
+
+universal ctags
+-----------------
+ctrl + ] -- for going inside the tag
+ctrl + T -- for coming out of it
+
+nerdtree
+---------------
+file structure
+ctrl + o - opening
+ctrl + o - closing
+
+fzf
+-----------
+< need to get idea >
+
+fugitive
+--------------
+< need to get idea >
+
+sensible
+-------------
+get the name of the file 
+
+lightline
+----------------
+same as sensible with more info
+
+youcompleteme
+----------------
+autocomplete
+
+palenight
+----------------
+colour theme
